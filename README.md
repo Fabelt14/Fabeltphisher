@@ -1,2 +1,0 @@
-# Fabeltphisher
-For phishing only
