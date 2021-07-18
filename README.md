@@ -6,10 +6,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.1-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/htr-tech/zphisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/htr-tech/zphisher?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/Fabelt14/zphisher?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/Fabelt14/zphisher?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/Fabelt14/zphisher?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/Fabelt14/zphisher?color=teal&style=for-the-badge">
 </p>
 
 <p align="center">
@@ -77,6 +77,6 @@ $ bash zphisher.sh
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/fabelt14" target="_blank"><img src="https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/fabelt14" target="_blank"><img src="https://img.shields.io/badge/Github-FABELT14-green?style=for-the-badge&logo=github"></a>
   <a href="https://www.facebook.com/Asekunfabelt.omotunde.bestprof" target="_blank"><img src="https://img.shields.io/badge/Chat-facebook-blue?style=for-the-badge&logo=facebook"></a>
 </p>
